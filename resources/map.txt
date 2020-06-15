@@ -1,0 +1,3 @@
+	EmptyRoom	
+SwordRoom	Tavern	WolfRoom
+	BanditRoom	VictoryRoom
